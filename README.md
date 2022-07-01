@@ -9,7 +9,3 @@
 - 📫 How to reach me [both are very easy to reach me]: 👀
     * Personal instagram: @pinto_marcelo_ 😎
     * e-mail: marcelo.pinto.jus@gmail.com 📧
-
-<!---
-
---->
