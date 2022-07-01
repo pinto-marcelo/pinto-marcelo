@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning DART/FLUTTER, PYTHON, C++ and JAVA;
 - ⚖ Law [100%] - at Unesc University (2010-2014);
 - 💻 Computer Science [ Loading % ] - at Unesc University (2021-now); 
-- 📫 How to reach me [both are very easy to reach me]: 👀
+- 🔭 Contact me:
     - Personal instagram: <a href="https://www.instagram.com/pinto_marcelo_/"> @pinto_marcelo_ </a>  
-    * e-mail: marcelo.pinto.jus@gmail.com 📧
-    * 
+    - :mailbox: marcelo.pinto.jus@gmail.com  
