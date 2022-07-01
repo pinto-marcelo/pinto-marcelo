@@ -7,6 +7,8 @@
 - 📫 How to reach me [both are very easy to reach me]: 👀
     * Personal instagram: @pinto_marcelo_ 😎
     * e-mail: marcelo.pinto.jus@gmail.com 📧
+          <li><a href="https://myrobotlab.com.br/#/login/professor"> MyRobot</a></li>
+            <li><a href="https://www.linkedin.com/in/marcelo-pinto-293778234/"> LinkedIn</a></li>
 
 <!---
 
