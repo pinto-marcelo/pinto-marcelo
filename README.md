@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pinto-marcelo
 - 👀 I’m interested in CODING, LEARN CODING, AND MORE CODING!
-- <li> Robotics teacher at: <a href="https://www.myrobot.com.br/"> MyRobot</a></li>
+<li> Robotics teacher at: <a href="https://www.myrobot.com.br/"> MyRobot</a></li>
 - My LinkedIn <li><a href="https://www.linkedin.com/in/marcelo-pinto-293778234/"> LinkedIn</a></li>
 - 🌱 I’m currently learning DART/FLUTTER, PYTHON, C++ and JAVA;
 - ⚖ Law [100%] - at Unesc University (2010-2014);
